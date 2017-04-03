@@ -1,6 +1,6 @@
 {
   "name": "my-range-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Модуль предоставляет ф-ию для приведение к строке специального массива",
   "main": "./lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Oleg Agapov",
   "license": "ISC",
   "repository": {
-    "type" : "git",
+    "type": "git",
     "url": "https://github.com/SteppeEagle/range-array.git"
   },
   "devDependencies": {
