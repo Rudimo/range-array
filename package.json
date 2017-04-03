@@ -1,5 +1,5 @@
 {
-  "name": "trend-test",
+  "name": "my-range-array",
   "version": "1.0.0",
   "description": "Модуль предоставляет ф-ию для приведение к строке специального массива",
   "main": "./lib/index.js",
