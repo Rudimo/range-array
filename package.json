@@ -4,7 +4,7 @@
   "description": "Модуль предоставляет ф-ию для приведение к строке специального массива",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && codecov -t fa5a41ce-d95b-464e-b362-7f7f15ee27bc",
+    "test": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && codecov -t fa5a41ce-d95b-464e-b362-7f7f15ee27bc"
   },
   "author": "Oleg Agapov",
   "license": "ISC",
