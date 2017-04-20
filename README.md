@@ -1,4 +1,6 @@
 # range-array
+[![Build Status](https://travis-ci.org/SteppeEagle/range-array.svg?branch=master)](https://travis-ci.org/SteppeEagle/range-array)
+
 Модуль для Node.JS, который преобразует массив чисел в строку по
 примеру:
 
