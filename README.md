@@ -37,11 +37,12 @@ npm install my-range-array
 ```
 ```javascript
 const rangeArrayToString = require('my-range-array');
+
 rangeArrayToString([1, 2, 3, 4, 5, 6, 7, 8])
-	.then((str) => {
-      // получаем строку
-	})
-	.catch((err) => {
-      // обрабатываем ошибки
-    });
+  .then((str) => {
+    // получаем строку '1-8'
+  })
+  .catch((err) => {
+    // обрабатываем ошибки
+  });
 ```
